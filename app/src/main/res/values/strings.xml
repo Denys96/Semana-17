@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Semana_17</string>
+
+    <string-array name="Opciones">
+        <item>-- Selecionar operacion-- </item>
+        <item>--Suma--</item>
+        <item>--Resta--</item>
+        <item>--Multiplicacion--</item>
+        <item>--Division--</item>
+    </string-array>
+    >
+</resources>
